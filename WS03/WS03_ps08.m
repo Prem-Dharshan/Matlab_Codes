@@ -1,3 +1,4 @@
+% 8.
 
 temp = input("\nEnter the temp (in degree Fahrenheit): ");
 

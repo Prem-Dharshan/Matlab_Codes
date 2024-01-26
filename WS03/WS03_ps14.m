@@ -4,7 +4,7 @@ num = input('Enter a number: ');
 
 fib = [0, 1];
 
-for i = 3:num
+for i = 3:num+1
     fib = [fib, fib(i-1) + fib(i-2)];
 end
 

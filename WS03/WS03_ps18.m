@@ -1,3 +1,5 @@
+% 18.
+
 annual_deposit = 5000;
 interest_rate = 0.09;
 target_amount = 1e6;
